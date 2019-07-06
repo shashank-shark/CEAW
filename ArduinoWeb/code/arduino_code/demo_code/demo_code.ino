@@ -1,5 +1,6 @@
 int analogOutPin = 9;
 int outputValue = 0;
+
 void setup() {
   pinMode(analogOutPin, OUTPUT);
 }
